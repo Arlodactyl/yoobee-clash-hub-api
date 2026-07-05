@@ -1,4 +1,4 @@
-This project is our group work for 104 UX Principles II. We designed and built a mobile-friendly web application that connects to the Clash Royale API. 
+Designed and built a mobile-friendly web application that connects to the Clash Royale API. 
 The idea was to let users view real-time player profiles, check recent matches, and search or compare clans. These purposes were set out clearly in our group document and guided how we developed both the designs and the codeWhen we first tried to connect our frontend to the Clash Royale API directly, we quickly ran into problems. The main issues were:
 
 #CORS restrictions – the browser blocked our requests because the Clash Royale API doesn’t allow cross-origin calls.
