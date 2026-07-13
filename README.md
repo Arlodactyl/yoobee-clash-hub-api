@@ -27,3 +27,7 @@ Aborted below: Using a Proxy Now.
 A simple Express server that proxies requests to the Clash Royale API using a secure `.env` key.
 Use this to bypass IP whitelisting issues when developing frontend apps on school or public networks.
 
+Feel free to click the link in the about to navigate the app, best on mobile. 
+---
+<img width="878" height="1713" alt="66" src="https://github.com/user-attachments/assets/fc453439-6974-4814-b345-d50b8adef230" />
+<img width="890" height="1721" alt="0" src="https://github.com/user-attachments/assets/20c07610-3461-44b0-9b16-522d199c084d" />
